@@ -78,7 +78,7 @@ E-commerce_Website/
 
 1. **Clone or download the project**
    ```bash
-   cd E-commerce_Website
+   cd ShopHub
    ```
 
 2. **Install dependencies**
